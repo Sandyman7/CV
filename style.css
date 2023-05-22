@@ -1,0 +1,48 @@
+h1{
+    background-color: black ;
+    
+    
+    color: darkgoldenrod;
+    font-family: monospace;
+}
+h2{
+    background-color: black ;
+    
+    
+    color: darkgoldenrod;
+    font-family: monospace;
+}
+.para1
+{
+    color: black;
+    font-size: 20px;
+}
+.ch1{
+    color: darkblue;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ch2{
+    font-family: cursive;
+    color:red;
+    font-style: oblique;
+    font-size: 40px;
+}
+#welc{
+    font-size: 30px;
+    color:black;
+}
+div{
+    background-color:yellowgreen;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    align-items: center;
+    height: 200px;
+    width: 209px;
+}
+#single{
+    color:mediumblue;
+}

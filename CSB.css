@@ -1,0 +1,45 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#container {
+  margin: auto;
+  display: flex;
+  padding: 2px;
+  height: 300px;
+  background: url(./Images/CSB/Pizza.jpg);
+  background-size: cover;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  justify-content: space-evenly;
+}
+
+
+
+#navbar a {
+  position: sticky;
+
+  color: white;
+  padding: 2px;
+  margin: 5px;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+#navbar a:hover {
+  color: red;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+#content h1 {
+  text-align: center;
+  color: darkgreen;
+
+}

@@ -1,0 +1,116 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    background-image: url(/Images/kobu-agency-ipARHaxETRk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    font: 15px sans-serif;
+    text-shadow: 1px 1px seagreen;
+    width: 25%;
+    margin: auto;
+    padding: 100px;
+
+
+}
+
+#btn {
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+}
+
+
+h1 {
+
+    background-color: sienna;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+    padding: 5px;
+
+}
+
+form input {
+
+
+
+    border: 1px solid;
+    box-shadow: 4px 5px 10px red;
+    background-color:lightgrey;
+    color: white;
+    font-family: cursive;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none;
+
+}
+
+
+#btn input {
+    font-family: cursive;
+    border-radius: 20px;
+    width: 300px;
+    padding: 8px;
+    margin: 8px;
+    outline: none;
+    border: none;
+    box-shadow: 4px 5px 10px red;
+    color: black;
+    width: 100%;
+    background-color:lightgrey;
+    ;
+}
+
+#btn input:hover {
+    background-color: sienna;
+    cursor: pointer;
+}
+.change{
+text-align: center;
+padding: 10px;
+}
+button{
+    position: absolute;
+    padding: 6px 18px;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 4px 5px 10px red;
+    margin: 0px -56px;
+}
+button:hover{
+    background-color: rgba(80, 0, 100, 0.8);
+    color: whitesmoke;
+    font-size: large;
+    font-weight: bolder;
+
+    
+
+}
+#first{
+    background-color: rgba(80, 0, 0, 0.5);
+    padding: 14px;
+    text-align: center;
+    margin: 4px 0px;
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
